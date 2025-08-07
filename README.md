@@ -30,5 +30,3 @@
 - Writing to **video memory** (e.g., segment `0xB800`)
 - Structuring a game loop in a low-level environment
 - Efficient use of **registers**, **stack**, and **procedures**
-
-earning purposes as part of low-level programming coursework.
